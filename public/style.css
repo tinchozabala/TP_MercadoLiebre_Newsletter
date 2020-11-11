@@ -1,0 +1,35 @@
+.navbar {
+background-color:#EAC926;
+color: #03264C;
+}
+
+.a {
+    color: #1259c3;
+}
+
+.pie {
+    color: #ebebeb;
+    font-size: 8px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    font-size: 12px;
+    color: #666;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+}

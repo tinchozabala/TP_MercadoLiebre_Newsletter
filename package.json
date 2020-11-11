@@ -1,0 +1,24 @@
+{
+  "name": "TP_MercadoLiebre_Newsletter",
+  "version": "1.0.0",
+  "description": "tp continuacion mercadoliebre. parte 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinchozabala/TP_MercadoLiebre_Newsletter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinchozabala/TP_MercadoLiebre_Newsletter/issues"
+  },
+  "homepage": "https://github.com/tinchozabala/TP_MercadoLiebre_Newsletter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
